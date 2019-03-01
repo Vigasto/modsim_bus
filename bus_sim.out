@@ -1,0 +1,157 @@
+Mean interarrival time     257.143     360.000     150.000 seconds
+Destination probability       0.583       0.417       1.000 
+Travel time      54.000     120.000      54.000 seconds
+Unload time min 16, max 24 seconds
+Load time min 15, max 25 seconds
+Idle waiting time min 300 seconds
+Simulated time 80 hours
+
+Queue length in air station 1:
+
+  File         Time
+ number       average          Maximum          Minimum
+_______________________________________________________
+
+    1         3.59354          14.0000          0.00000 
+_______________________________________________________
+
+
+
+Queue length in air station 2:
+
+  File         Time
+ number       average          Maximum          Minimum
+_______________________________________________________
+
+    2         2.01370          10.0000          0.00000 
+_______________________________________________________
+
+
+
+Queue length in car rental 3:
+
+  File         Time
+ number       average          Maximum          Minimum
+_______________________________________________________
+
+    3         4.93380          22.0000          0.00000 
+_______________________________________________________
+
+
+
+
+
+Queue delay in air station 1:
+
+ sampst                         Number
+variable                          of
+ number       Average           values          Maximum          Minimum
+________________________________________________________________________
+
+    4         994.394          1122.00          3613.42          44.9336 
+________________________________________________________________________
+
+
+
+Queue delay in air station 2:
+
+ sampst                         Number
+variable                          of
+ number       Average           values          Maximum          Minimum
+________________________________________________________________________
+
+    5         796.070          788.000          1645.82          65.1219 
+________________________________________________________________________
+
+
+
+Queue delay in car rental 3:
+
+ sampst                         Number
+variable                          of
+ number       Average           values          Maximum          Minimum
+________________________________________________________________________
+
+    6         882.733          1854.00          1767.69          91.2675 
+________________________________________________________________________
+
+
+
+
+
+Queue length inside bus:
+
+  File         Time
+ number       average          Maximum          Minimum
+_______________________________________________________
+
+    7         12.1916          20.0000          0.00000 
+_______________________________________________________
+
+
+
+
+
+Waiting time in air station 1:
+
+ sampst                         Number
+variable                          of
+ number       Average           values          Maximum          Minimum
+________________________________________________________________________
+
+    8         300.000          190.000          300.000          300.000 
+________________________________________________________________________
+
+
+
+Waiting time in air station 2:
+
+ sampst                         Number
+variable                          of
+ number       Average           values          Maximum          Minimum
+________________________________________________________________________
+
+    9         320.363          190.000          467.000          300.000 
+________________________________________________________________________
+
+
+
+Waiting time in air station 3:
+
+ sampst                         Number
+variable                          of
+ number       Average           values          Maximum          Minimum
+________________________________________________________________________
+
+   10         396.979          190.000          734.000          300.000 
+________________________________________________________________________
+
+
+
+
+
+Loop Delay:
+
+ sampst                         Number
+variable                          of
+ number       Average           values          Maximum          Minimum
+________________________________________________________________________
+
+   11         1514.17          190.000          1770.00          828.000 
+________________________________________________________________________
+
+
+
+
+
+Service time:
+
+ sampst                         Number
+variable                          of
+ number       Average           values          Maximum          Minimum
+________________________________________________________________________
+
+   12         1856.13          3756.00          4643.42          556.673 
+________________________________________________________________________
+
+
